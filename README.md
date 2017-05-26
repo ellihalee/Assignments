@@ -9,3 +9,4 @@ TA ‘office hours’ will be run in the CSB computer room, CSB 115. These 'offi
   - Larry:		  1 - 1:50 pm on Tuesdays & Thursdays
   - Harshita: 	2-2:50 pm & 4-4:50 pm on Fridays
   - Tony: 		  2-3 pm on Tuesdays & Thursdays
+# COGS10
